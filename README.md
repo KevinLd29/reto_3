@@ -1,4 +1,4 @@
-# reto_3
+## reto_3
 Buenas, aquí hago entrega del reto 3, atrasado tal vez, pero siempre cumpliendo.
 Este reto consiste en crear un pseudocódigo y crear un diagrama de flujo para hallar números primos.
 
@@ -24,6 +24,8 @@ Sí, residuo = 0 : No primo
 Sí, residuo no = 0 : Primo
 
 FIN
+
+## Diagrama de flujo
 
 Ahora con el pseudocodigo planteado, podemos crear un diagrama de flujo para generar un mejor entendimiento, tal que:
 
